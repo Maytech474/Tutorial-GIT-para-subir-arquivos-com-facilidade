@@ -1,5 +1,5 @@
 
-0- git clone
+0- git clone (abra o arquivo clone com o botão direito e clique em git bash, depois execute os comando a seguir)
 1- git init
 2- git add .
 3- git status
